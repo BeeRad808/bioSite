@@ -1,0 +1,51 @@
+/*
+    Assignment: Module 4.2
+        Author: Shayla Bradley 
+          Date: 1/21/23
+
+    This program links to index.html.
+*/
+
+body {
+    background-color: #BAE06E;
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+  
+p {
+    background-color: #6D7A6D;
+}
+  
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#navbar {
+    color: #453674;
+    text-decoration: none;
+}
+#navbar:hover {
+    background-color: D6A800;
+    color: #4f3674;
+}
+#navbar:visited {
+    color: #3c275a;
+}
+
+figure {
+    margin: 20px;
+}
+  
+figcaption {
+    text-align: center;
+}
+  
+footer {
+    margin-top: 20px;
+    text-align: center;
+}
+  
