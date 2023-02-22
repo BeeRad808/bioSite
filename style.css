@@ -1,7 +1,7 @@
 /*
-    Assignment: Module 4.2
+    Assignment: Module 8
         Author: Shayla Bradley 
-          Date: 1/21/23
+          Date: 2/19/23
 
     This program links to index.html.
 */
@@ -77,6 +77,6 @@ body {
 	margin-right: 10px;
 }
 
-p {
+container.p {
 	margin: 0;
 }
