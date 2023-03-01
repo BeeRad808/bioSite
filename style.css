@@ -18,14 +18,17 @@ body {
 	justify-content: space-between;
 	align-items: center;
 	height: 60px;
-	padding: 0 20px;
+	padding: 20px;
 	color: #BAE06E;
 	font-family: 'Source Sans Pro', sans-serif;
   }
   
   #navbar a {
+	float: right;
 	font-size: 12px;
 	color: black;
+	text-align: center;
+	text-decoration: bold;
   }
 
 /* Landing Page */
