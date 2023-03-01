@@ -10,7 +10,7 @@ body {
 	text-decoration: none;
   }
   
-  /* Landing Page Styles */
+  /* NavBar */
   
   #navbar {
 	background-color: #5944AD;
@@ -26,4 +26,31 @@ body {
   #navbar a {
 	font-size: 12px;
 	color: black;
+  }
+
+/* Landing Page */
+
+#index-img {
+	width: 830px;
+	height: 525px;
+  }
+  
+  #index-card-text {
+	margin: 10px 0;
+  }
+  
+  #index-left-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 20px;
+  }
+  
+  #index-card-left {
+	background-color: #fff;
+	border-radius: 8px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	padding: 20px;
+	max-width: 900px;
+	width: 100%;
   }
