@@ -17,10 +17,10 @@ body {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	height: 60px;
-	padding: 20px;
+	height: 40px;
+	padding: 10px;
 	color: #BAE06E;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Lucida Sans', sans-serif;
   }
   
   #navbar a {
