@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Roboto:ital,wght@0,300;0,400;1,100;1,400&display=swap');
+
 /* General Styles */
 
 body {
@@ -17,7 +20,7 @@ body {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	height: 40px;
+	height: 35px;
 	padding: 10px;
 	color: #BAE06E;
 	font-family: 'Lucida Sans', sans-serif;
@@ -25,7 +28,7 @@ body {
   
 #navbar a {
 	float: right;
-	font-size: 12px;
+	font-size: 18px;
 	color: black;
 	text-align: center;
 	text-decoration: bold;
